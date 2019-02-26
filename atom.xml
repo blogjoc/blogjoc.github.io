@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>末の博客</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blogjoc.github.io/"/>
+  <updated>2019-02-26T15:35:24.676Z</updated>
+  <id>http://blogjoc.github.io/</id>
+  
+  <author>
+    <name>都末君</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>heyblog</title>
+    <link href="http://blogjoc.github.io/2019/02/26/heyblog/"/>
+    <id>http://blogjoc.github.io/2019/02/26/heyblog/</id>
+    <published>2019-02-26T15:31:43.000Z</published>
+    <updated>2019-02-26T15:35:24.676Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;我的博客&quot;&gt;&lt;a href=&quot;#我的博客&quot; class=&quot;headerlink&quot; title=&quot;我的博客&quot;&gt;&lt;/a&gt;我的博客&lt;/h1&gt;&lt;p&gt;这是测试的内容&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
