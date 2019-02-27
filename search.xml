@@ -1,8 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[one]]></title>
+    <url>%2F2019%2F02%2Fone%2F</url>
+    <content type="text"><![CDATA[第一不是第三]]></content>
+  </entry>
+  <entry>
+    <title><![CDATA[second]]></title>
+    <url>%2F2019%2F02%2Fsecond%2F</url>
+    <content type="text"><![CDATA[第二 不是第一啊哈]]></content>
+  </entry>
+  <entry>
     <title><![CDATA[heyblog]]></title>
     <url>%2F2019%2F02%2Fheyblog%2F</url>
     <content type="text"><![CDATA[我的博客这是测试的内容1This is code]]></content>
+      <categories>
+        <category>hilo</category>
+      </categories>
+      <tags>
+        <tag>heyblog</tag>
+      </tags>
   </entry>
 </search>
